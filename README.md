@@ -66,7 +66,7 @@ Black Widow
 
 ### 5. Try out GraphQL
 
-Switch to the `GraphiQL` tab on top and execute the following GraphQL query:
+Switch to the `GraphQL` tab on top and execute the following GraphQL query:
 
 ```graphql
 query {
